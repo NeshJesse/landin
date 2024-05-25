@@ -1,4 +1,4 @@
-LaunchSUV FLASK BOILERPLATE
+LaunchSUV  BOILERPLATE
 
 Launch your solution as fast as possible
 The Boilerplate with all the necessary features a Kenyan developer needs to launch their solution
