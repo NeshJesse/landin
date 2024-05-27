@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://neshjesse.github.io/landin/sitemap.xml
