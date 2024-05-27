@@ -1,7 +1,16 @@
 LaunchSUV  BOILERPLATE
 
 Launch your solution as fast as possible
-The Boilerplate with all the necessary features a Kenyan developer needs to launch their solution
+The Boilerplate with all the necessary features a Kenyan developer needs to launch their side projects and commercial solutions
+![Screenshots](assets/Launch SUV Poster.png)
+![Screenshots](assets/Launch SUV Poster(14).png)
+
+FItted with
+MPESA STK PUSH
+USER AUTH
+DATABASE STORAGE
+LANDING PAGE
+ALL A DEVELOPER NEEDS TO LAUNCH ANY COMMERCIAL SIDE PROJECT
 Imagine you want to build a cool clubhouse, but building it from scratch would take a lot of time and effort. 
 Instead, you use a pre-built club house that already has most of the parts you need and customize it to your own requirements.
 This pre-built club house is like a "boilerplate" in web development.
