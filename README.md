@@ -39,6 +39,7 @@ Supportes tech stacks
 FLASK
 React Js & Next Js
 
+## APACHE 2.O LICENSE FOR ALL CHILDREN
 
 
 
